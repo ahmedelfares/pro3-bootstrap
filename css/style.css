@@ -133,11 +133,7 @@ body {
     background-color: var(--blue-color);
 }
 .cars-title h2{    
-    background-image: linear-gradient(20deg, #ffffff ,#d2f1fa  , var(--Dark-blue-color) );
-    background-size: 100%;
-    background-clip: text;
-    -webkit-text-fill-color: transparent; 
-    -moz-text-fill-color: transparent;
+    color: #fff;
 }
 .card {
     background-color: var(--blue-color);
